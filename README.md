@@ -19,14 +19,16 @@
 - Toggle sorting for optimization 
 - Optional render upscaling 
 
-## Coming 
-- Color grading 
+#### Coming 
+- Color correction 
 - Nearest Neighbor Calculation
+- Relighting 
 
 ## Usage 
 Example splat model can be downloaded from https://www.dropbox.com/scl/fi/nv952xgspe4me2g20opdk/gs_wood_sculpture_outside_av.ply?rlkey=unwqpqgh9wf5pnoc399up74nj&dl=0
 
 Get the tox from my patreon at https://www.patreon.com/water__shed
+
 See video at ___
 
 

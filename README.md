@@ -25,7 +25,15 @@
 - Relighting 
 
 ## Usage 
-Get the tox from my patreon at https://www.patreon.com/water__shed
+1. Get the tox from my patreon at https://www.patreon.com/water__shed
+2. Drag and drop the .tox into your project file
+3. Update the splat .ply file path parameter to your splat file
+4. Reset the component with the Reset parameter or your preferred hot key
+
+- See video tutorial here: https://youtu.be/wPw0OLlZ4sE
+- setting Array and Distance from Center mode to `dissolve` will freeze all splats at the start, only allowing them to move after they are affected by the distance or array of effectors (turb should be nonzero to see this)
+- setting Array and Distance to `splat` or `point` will apply turbulence globally, so the whole splat will start to move if `turbAmp>0`
+- There is a parameter for 'mix to splat at home', which wil determine if all splats are rendered at full size when close to their initial position
 
 ### Tips
 - this pipeline can get pretty heavy at high resolutions, and at any resolution the splat files take up a decent bit of GPU memory, so be careful and save often
@@ -35,8 +43,6 @@ Get the tox from my patreon at https://www.patreon.com/water__shed
 
 
 ### Examples
-See video tutorial here: https://youtu.be/wPw0OLlZ4sE
-
 Example splat model (created by myself) can be downloaded from https://www.dropbox.com/scl/fi/nv952xgspe4me2g20opdk/gs_wood_sculpture_outside_av.ply?rlkey=unwqpqgh9wf5pnoc399up74nj&dl=0
 
 ## LICENSE 

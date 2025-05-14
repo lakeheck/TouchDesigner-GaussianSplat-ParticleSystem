@@ -28,16 +28,16 @@
 Get the tox from my patreon at https://www.patreon.com/water__shed
 
 ### Tips
+- this pipeline can get pretty heavy at high resolutions, and at any resolution the splat files take up a decent bit of GPU memory, so be careful and save often
 - alt + hover over params to see help, where it exists 
-- 
+- make sure you have a splat .ply file, not all .ply files are splats (export as gaussian splat from luma, for example)
+- use SuperSplat to edit splats and then export again to re-import to TD 
 
 
 ### Examples
-Example splat model can be downloaded from https://www.dropbox.com/scl/fi/nv952xgspe4me2g20opdk/gs_wood_sculpture_outside_av.ply?rlkey=unwqpqgh9wf5pnoc399up74nj&dl=0
+See video tutorial here: https://youtu.be/wPw0OLlZ4sE
 
-
-See video at ___
-
+Example splat model (created by myself) can be downloaded from https://www.dropbox.com/scl/fi/nv952xgspe4me2g20opdk/gs_wood_sculpture_outside_av.ply?rlkey=unwqpqgh9wf5pnoc399up74nj&dl=0
 
 ## LICENSE 
 This project is licensed under a Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 International License (CC BY-NC-ND 4.0).

@@ -4,3 +4,5 @@ md/*
 Backup/*
 *.toe
 *.ply
+assets/*
+*.jpg

@@ -2,6 +2,12 @@
 
 # Gaussian Splat Particle System in TouchDesigner 
 
+Created by Lake Heckaman
+As seen in: 
+- https://www.lakeheckaman.com/work/pollination
+- https://www.lakeheckaman.com/work/still-life
+- https://www.instagram.com/reel/DDuoEsZtFnA
+
 ## Features 
 - WORKS ON MAC
 - Apply turbulence to splats to dissolve the scene
@@ -29,7 +35,7 @@ Get the tox from my patreon at https://www.patreon.com/water__shed
 
 ### Tips
 - alt + hover over params to see help, where it exists 
-- 
+- CHOP array expects channels as follows: [tx,ty,tz,radius]
 
 
 ### Examples
